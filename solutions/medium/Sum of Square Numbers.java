@@ -15,5 +15,6 @@
         }
 
         return false;
-    }
-}
+    public boolean judgeSquareSum(int c) {
+
+class Solution {
